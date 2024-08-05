@@ -15,7 +15,7 @@
 
 ### 每日美图
 该图片由 Bing 每日壁纸提供，图片 API 收集由 [mike126126](https://github.com/mike126126) 在 [Github](https://github.com/mike126126/bing) 开源  
-![图片炸了? [让 ED_Builder 修](/chat?uid=1023494)](https://bing.img.run/uhd.php)
+![图片炸了? 让 ED_Builder 修](https://baotangguo.cn:8081/)
 
 ### 联系我们
 - 团主：[abc1234shi](/chat?uid=941501 "喜气至永远") [Ymy1201](/chat?uid=1186739 "基泥苔煤") [dldl_____](/chat?uid=1073177)
