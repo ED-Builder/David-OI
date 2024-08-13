@@ -1,7 +1,8 @@
 # $\color{#51c41a}David-OI$
 > ### 置顶公告
-> 请 **所有管理员** 到 [该帖](/discuss/885805) 下回复证明活跃，否则将撤销管理员权限。如若您的发言权限被撤销，可以私信 [ED_Builder](/chat?uid=1023494) 或 [abc1234shi](/chat?uid=941501) 。您也可以让他人帮你证明，需要附上理由，例如 `xxx 活跃（自由发言权限被撤销）`
-
+> 请 **所有管理员** 到 [该帖](/discuss/885805) 下回复证明活跃，否则将撤销管理员权限。如若您的发言权限被撤销，可以私信 [ED_Builder](/chat?uid=1023494) 或 [abc1234shi](/chat?uid=941501) ，[Minecraft__java](https://www.luogu.com.cn/user/1132832)。您也可以让他人帮你证明，需要附上理由，例如 `xxx 活跃（自由发言权限被撤销）`
+>
+>[出题组](https://www.luogu.com.cn/team/85069)，大佬望加
 
 ---
 ## 公告
@@ -16,7 +17,7 @@
 > 请 **管理员** 们根据自己的喜好 / 分配 / 能力选择小组，如若普通成员具有能力，请 [联系团主](/chat?uid=941501) 并获得权限。  
 请 **新成员** 选择与名字颜色相对应的小组（包括灰、棕）
 
-> 如果 **愿意宣传团队**（**将团队链接发给好友，且至少有二人进入团队**），可成为管理员以及到 **橄榄枝 - 外交** 里并获得 1 个关注哦。（需私信 **abc1234shi** / **Ymy1201** / **dldl_____**）
+> 如果 **愿意宣传团队**（**将团队链接发给好友，且至少有二人进入团队**），可成为管理员以及到 **橄榄枝 - 外交** 里并获得 1 个关注哦。（需私信 **abc1234shi** / **Ymy1201** / **dldl_____** / **Minecraft__java**）
 
 ---
 ## 指引
@@ -29,9 +30,9 @@
 省流：CF 用 CF 使 Luogu 不能爬取 CF  
 原文链接：[置顶站务版](/discuss/598533)
 ### 指向
-- 如果你认为哪个管理员做得不够好，或他的某个行为令你不满，你可在 [此帖](/discuss/885878)下方举报或 [私信 abc1234shi](/chat?uid=941501) 。
+- 如果你认为哪个管理员做得不够好，或他的某个行为令你不满，你可在 [此帖](/discuss/885878)下方举报或 [私信 abc1234shi](/chat?uid=941501) ，[Minecraft__java](https://www.luogu.com.cn/user/1132832)。
 - [David-OI 官方仓库](https://github.com/ED-Builder/David-OI) 已经建成，欢迎 Issues / PR
-- 达成合作的团队：[MUSTA 练习副团](/team/68500) &nbsp; [msg1](/team/68785) &nbsp; 
+- 达成合作的团队：[MUSTA 练习副团](/team/68500) &nbsp; [msg1](/team/68785) &nbsp; [哈哈题库](https://www.luogu.com.cn/team/80343)
 ### 一言
 > 天使可以为了全世界而放弃你，而恶魔可以为了你而放弃全世界。
 ### 每日美图
@@ -41,15 +42,14 @@
 该图片由 Bing 随机壁纸提供，刷新就会更换，由 [Dark_Monarch](/user/1032282) 提供
 ![](https://bing.img.run/rand.php)
 ### 联系我们
-- 团主：[abc1234shi](/chat?uid=941501 "喜气至永远") ，[Ymy1201](/chat?uid=1186739 "基泥苔煤") ，[dldl_____](/chat?uid=1073177)
-- 管理组：[pies_0x](/chat?uid=964645 "大家能借我点rp吗") ，[Storm001](/chat?uid=985767 "星河斩尽")， [WangChiMing](/chat?uid=1023500 "www") ，[ED_Builder](/chat?uid=1023494 "咕咕《<复生>》") 
+- 创始人：[abc1234shi](/chat?uid=941501 "喜气至永远") ，[Ymy1201](/chat?uid=1186739 "基泥苔煤") ，[dldl_____](/chat?uid=1073177) ，[ED_Builder](/chat?uid=1023494 "咕咕《<复生>》")，[Minecraft__java](https://www.luogu.com.cn/user/1132832)
 
-如若您希望得到更多答复，您可以考虑给 [abc1234shi](/chat?uid=941501) 或 [ED_Builder](/chat?uid=1023494) 发私信
+如若您希望得到更多答复，您可以考虑给 [abc1234shi](/chat?uid=941501) 或 [ED_Builder](/chat?uid=1023494)，[Minecraft__java](https://www.luogu.com.cn/user/1132832) 发私信
 
 ---
 #### 页面信息
-- 版本：Dev 0.1.11 [ Beta ]
+- 版本：Dev 0.1.15 [ Connection ]
 - 贡献者：abc1234shi ED_Builder Dark_Monarch
 - 更新时间：2024/08/11 04:30 p.m.
-- 更新内容：清理
-- 附加信息：~~后撤步~~~
+- 更新内容：添加创始人
+- 附加信息：放弃
